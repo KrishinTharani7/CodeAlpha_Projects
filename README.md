@@ -1,4 +1,4 @@
-Iris Flower Classification Project
+**Iris Flower Classification Project**
 Project Overview:
 This project demonstrates the classification of iris flower species using machine learning. The Iris dataset contains measurements of sepal length, sepal width, petal length, and petal width for three different species of iris flowers: Iris-setosa, Iris-versicolor, and Iris-virginica. The goal is to build a machine learning model that can classify the species based on these measurements.
 
